@@ -1,7 +1,5 @@
 ## 💜 Hello Word, meu nome é Letícia Cardoso!
 
-Sou uma estudante, atualmente dando meus primeiros passos nas áreas de **Python**, **HTML**, **CSS** e **Java**. Estou sempre buscando aprender mais e desenvolver projetos que me ajudem a colocar em prática o que venho estudando.
-
 🔭 No momento, estou me dedicando a pequenos projetos e estudos para fortalecer minha base em programação. Um dos meus objetivos é evoluir cada dia mais e compartilhar meu progresso por aqui.
 
 💬 Se você quiser trocar experiências, dar sugestões ou simplesmente bater um papo sobre tecnologia, fique à vontade para me chamar!
