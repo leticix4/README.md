@@ -2,7 +2,6 @@
 
 🔭 No momento, estou me dedicando a pequenos projetos e estudos para fortalecer minha base em programação. Um dos meus objetivos é evoluir cada dia mais e compartilhar meu progresso por aqui.
 
-💬 Se você quiser trocar experiências, dar sugestões ou simplesmente bater um papo sobre tecnologia, fique à vontade para me chamar!
 
 ---
 
